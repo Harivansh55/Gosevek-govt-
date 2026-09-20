@@ -1,0 +1,6 @@
+{
+  "name": "GOVSAHAYAK – Government Scheme Matching Assistant",
+  "description": "Conversational AI + Rule-Based Eligibility & RAG Scheme Assistant for Indian citizens with multilingual support, explainable decisions, near-miss detection, and document checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
